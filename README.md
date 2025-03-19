@@ -1,7 +1,7 @@
 <!-- CENTERED ANIMATED HEADING -->
 <h1 align="center">
   <a href="https://github.com/OMNIPOTENTHAVOC">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C9FF&center=true&width=500&lines=Hi%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C9FF&center=true&width=500&lines=Hi%2C+I'm+%5BOMNIPOTENTHAVOC%5D+%F0%9F%91%8B">
   </a>
 </h1>
 
