@@ -43,7 +43,7 @@
 ---
 
 ## 🔥 **Featured Projects**  
-📌 **[STLF](https://github.com/OMNIPOTENTHAVOC/STLF)** → *Brief, powerful description*  
+📌 **[STLF](https://github.com/OMNIPOTENTHAVOC/STLF)** → *designed to forecast regional electrical load and optimize load shedding/restoration decisions to maintain grid balance.*  
 📌 **[Project Name](GitHub Repo Link)** → *Brief, powerful description*  
 📌 **More on my GitHub →** [Repositories](https://github.com/OMNIPOTENTHAVOC?tab=repositories)  
 
