@@ -43,7 +43,7 @@
 ---
 
 ## 🔥 **Featured Projects**  
-📌 **[Project Name](GitHub Repo Link)** → *Brief, powerful description*  
+📌 **[STLF](GitHub Repo Link)** → *Brief, powerful description*  
 📌 **[Project Name](GitHub Repo Link)** → *Brief, powerful description*  
 📌 **More on my GitHub →** [Repositories](https://github.com/OMNIPOTENTHAVOC?tab=repositories)  
 
