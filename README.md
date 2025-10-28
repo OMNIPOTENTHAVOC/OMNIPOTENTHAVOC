@@ -44,8 +44,8 @@
 
 ## 🔥 **Featured Projects**  
 📌 **[STLF](https://github.com/OMNIPOTENTHAVOC/STLF)** → *designed to forecast regional electrical load and optimize load shedding/restoration decisions to maintain grid balance.*  
+📌 **[ImpactorViz](https://github.com/OMNIPOTENTHAVOC/sac_2)** → *An asteroid impact aftermath prediction tool* 
 
-📌 **[ImpactorViz](https://github.com/OMNIPOTENTHAVOC/sac_2)** → *An asteroid impact aftermath prediction tool*  
 📌 **More on my GitHub →** [Repositories](https://github.com/OMNIPOTENTHAVOC?tab=repositories)  
 
 ---
