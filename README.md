@@ -76,6 +76,8 @@ A desktop-based encryption system built to understand **how encryption is implem
 * How improper Initialization Vector (IV) handling breaks AES.
 * **Key Takeaway:** Encryption algorithms are strong; *implementations* are weak.
 
+
+
 ### ⚙️ **[STLF — Short-Term Load Forecasting](https://github.com/OMNIPOTENTHAVOC/STLF)**
 
 > *Python · Data Analysis · Grid Systems*
@@ -92,11 +94,12 @@ Built to understand **infrastructure reliability**, not just ML buzzwords.
 
 ---
 
-## 📈 **System Metrics**
+## 📈 SYSTEM METRICS
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DOMNIPOTENTHAVOC%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26bg_color%3D0a0a0a%26title_color%3D00ff9c%26icon_color%3D00ff9c" width="48%">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DOMNIPOTENTHAVOC%26theme%3Ddark%26hide_border%3Dtrue%26background%3D0a0a0a%26ring%3D00ff9c%26fire%3D00ff9c%26currStreakLabel%3D00ff9c" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=OMNIPOTENTHAVOC&show_icons=true&theme=transparent&hide_border=true&title_color=00ff9c&text_color=ffffff&icon_color=00ff9c&text_bold=false" width="48%" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMNIPOTENTHAVOC&theme=transparent&hide_border=true&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="48%" alt="Streak Stats" />
 </p>
 
 ---
