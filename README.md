@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/OMNIPOTENTHAVOC">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&width=900&lines=Siddhansh+Srivastava;OMNIPOTENTHAVOC;Cybersecurity+%7C+Systems+Engineering;Built+from+the+terminal+up">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&width=900&lines=Siddhansh+Srivastava;(OMNIPOTENTHAVOC);Cybersecurity+%7C+Systems+Engineering;Built+from+the+terminal+up">
   </a>
 </h1>
 
