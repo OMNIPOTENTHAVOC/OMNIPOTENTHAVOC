@@ -123,8 +123,8 @@ I focus on **how things break**, because that’s how secure systems are built.
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMNIPOTENTHAVOC&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff9c&text_color=ffffff" width="48%" />
 </p>
----
 
+---
 ## 📡 **Connect**
 
 <p align="center">
