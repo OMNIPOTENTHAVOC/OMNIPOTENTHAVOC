@@ -143,5 +143,5 @@ I focus on **how things break**, because that’s how secure systems are built.
 </p>
 
 <p align="center">
-<i>Security is not a toolset — it’s a systems mindset.</i>
+<i>Understanding failure is the foundation of security.</i>
 </p>
