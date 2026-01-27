@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&width=900&lines=Siddhansh+Srivastava;OMNIPOTENTHAVOC;Cybersecurity+%7C+Systems+Engineering;Built+from+the+terminal+up">
+  <a href="https://github.com/OMNIPOTENTHAVOC">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&width=900&lines=Siddhansh+Srivastava;OMNIPOTENTHAVOC;Cybersecurity+%7C+Systems+Engineering;Built+from+the+terminal+up">
+  </a>
 </h1>
 
 <p align="center">
@@ -11,124 +13,111 @@
   <b>Understanding software by pushing it to failure.</b>
 </p>
 
----
+<br>
 
-## 🧠 ABOUT ME
+## 🧠 **About Me**
 
 ```bash
 user@kali:~$ whoami
-````
+# > Systems-focused security engineer specializing in low-level analysis.
 
-I’m a **systems-focused cybersecurity engineer in training** with a strong interest in
-how software behaves under real constraints — memory, execution flow, permissions, and misuse.
+```
 
-My work centers around:
+I have a strong interest in how software behaves under real constraints—memory, execution flow, permissions, and misuse. My work centers around:
 
-* Linux internals & privilege boundaries
-* Cryptographic implementation (not just theory)
-* Secure file handling & storage systems
-* Failure analysis and defensive design
+* **Linux Internals:** Privilege boundaries and process isolation.
+* **Applied Cryptography:** Implementation realities vs. theoretical security.
+* **Defensive Design:** Analyzing failure states to build resilience.
 
 I focus on **how things break**, because that’s how secure systems are built.
 
 ---
 
-## 🎯 CURRENT FOCUS
+## 🎯 **Current Focus**
 
-* 🔐 Applied cryptography (AES, hashing, key handling)
-* 🧬 Linux internals & process isolation
-* 🌐 Networking fundamentals
-* 🧠 Threat modeling & attack surfaces
-* 🛠 Building security-focused tools
+* 🔐 **Applied Cryptography** (AES, hashing, key management)
+* 🧬 **Linux Kernel & Internals** (Process isolation, memory safety)
+* 🌐 **Network Protocol Analysis** (Packet inspection, handshake integrity)
+* 🧠 **Threat Modeling** (Reducing attack surfaces in embedded systems)
 
 ---
 
-## 🛠 TECH STACK
+## 🛠 **Tech Stack**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=00ff9c">
-  <img src="https://img.shields.io/badge/C%2B%2B-0a0a0a?style=for-the-badge&logo=c%2B%2B&logoColor=00ff9c">
-  <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00ff9c">
-  <img src="https://img.shields.io/badge/Bash-0a0a0a?style=for-the-badge&logo=gnu-bash&logoColor=00ff9c">
-  <img src="https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=00ff9c">
-  <img src="https://img.shields.io/badge/Cryptography-0a0a0a?style=for-the-badge&logo=letsencrypt&logoColor=00ff9c">
-  <img src="https://img.shields.io/badge/Networking-0a0a0a?style=for-the-badge&logo=cisco&logoColor=00ff9c">
+<img src="https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=00ff9c">
+<img src="https://img.shields.io/badge/C%2B%2B-0a0a0a?style=for-the-badge&logo=c%2B%2B&logoColor=00ff9c">
+<img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00ff9c">
+<img src="https://img.shields.io/badge/Bash-0a0a0a?style=for-the-badge&logo=gnu-bash&logoColor=00ff9c">
+<img src="https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=00ff9c">
+<img src="https://img.shields.io/badge/Cryptography-0a0a0a?style=for-the-badge&logo=letsencrypt&logoColor=00ff9c">
+<img src="https://img.shields.io/badge/Networking-0a0a0a?style=for-the-badge&logo=cisco&logoColor=00ff9c">
 </p>
 
 ---
 
-## 🔥 FEATURED PROJECTS
+## 🔥 **Featured Projects**
 
-### 🔐 File Encryption & Decryption Tool (Java · AES)
+### 🔐 **[File Encryption & Decryption Tool](https://github.com/OMNIPOTENTHAVOC)**
+
+> *Java · AES · Swing*
 
 A desktop-based encryption system built to understand **how encryption is implemented incorrectly in real software**.
 
 **What it actually does:**
 
-* Encrypts and decrypts files using AES
-* Accepts user-provided keys/passwords
-* Validates file integrity after decryption
-* Provides a simple GUI for controlled usage
+* Encrypts and decrypts files using AES standards.
+* Validates file integrity post-decryption.
+* Provides a GUI for controlled cryptographic operations.
 
-**What I learned from this project:**
+**What I learned:**
 
-* Why hardcoded keys are dangerous
-* How improper IV handling breaks AES security
-* Why encryption ≠ secure system by default
+* Why hardcoded keys are a critical vulnerability.
+* How improper Initialization Vector (IV) handling breaks AES.
+* **Key Takeaway:** Encryption algorithms are strong; *implementations* are weak.
 
-🔗 **Repo:** [https://github.com/OMNIPOTENTHAVOC](https://github.com/OMNIPOTENTHAVOC)
+### ⚙️ **[STLF — Short-Term Load Forecasting](https://github.com/OMNIPOTENTHAVOC/STLF)**
 
----
+> *Python · Data Analysis · Grid Systems*
 
-### ⚙️ STLF — Short-Term Load Forecasting
+A system-level project focused on **predicting electrical load patterns** for regional grids to prevent outages.
 
-A system-level project focused on **predicting electrical load patterns** for regional grids.
+**Engineering Focus:**
 
-**Core purpose:**
+* **Reliability:** Modeling system behavior under fluctuating demand stress.
+* **Data Integrity:** Building robust preprocessing pipelines for noisy sensor data.
+* **Impact:** Assisting decision-making for load shedding and grid balancing.
 
-* Forecast short-term power demand
-* Analyze grid stress scenarios
-* Assist decision-making for load balancing
-
-**Engineering focus:**
-
-* Data preprocessing pipelines
-* Reliability analysis
-* System behavior under fluctuating demand
-
-Built to understand **infrastructure reliability**, not ML buzzwords.
-
-🔗 **Repo:** [https://github.com/OMNIPOTENTHAVOC/STLF](https://github.com/OMNIPOTENTHAVOC/STLF)
+Built to understand **infrastructure reliability**, not just ML buzzwords.
 
 ---
 
-## 📈 SYSTEM METRICS
+## 📈 **System Metrics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OMNIPOTENTHAVOC&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMNIPOTENTHAVOC&theme=tokyonight&hide_border=true" width="48%">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DOMNIPOTENTHAVOC%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26bg_color%3D0a0a0a%26title_color%3D00ff9c%26icon_color%3D00ff9c" width="48%">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DOMNIPOTENTHAVOC%26theme%3Ddark%26hide_border%3Dtrue%26background%3D0a0a0a%26ring%3D00ff9c%26fire%3D00ff9c%26currStreakLabel%3D00ff9c" width="48%">
 </p>
 
 ---
 
-## 📡 CONNECT
+## 📡 **Connect**
 
 <p align="center">
-  <a href="https://github.com/OMNIPOTENTHAVOC">
-    <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c">
-  </a>
-  <a href="https://www.linkedin.com/in/siddhansh-srivastava-86214a326">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ff9c">
-  </a>
+<a href="https://github.com/OMNIPOTENTHAVOC">
+<img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c">
+</a>
+<a href="https://www.linkedin.com/in/siddhansh-srivastava-86214a326">
+<img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ff9c">
+</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0a0a0a&height=2">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0a0a0a&height=2">
 </p>
 
 <p align="center">
-  <i>Security is not a toolset — it’s a systems mindset.</i>
+<i>Security is not a toolset — it’s a systems mindset.</i>
 </p>
-
