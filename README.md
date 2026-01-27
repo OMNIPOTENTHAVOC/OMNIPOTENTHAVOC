@@ -93,15 +93,13 @@ A system-level project focused on **predicting electrical load patterns** for re
 Built to understand **infrastructure reliability**, not just ML buzzwords.
 
 ---
-
 ## 📈 SYSTEM METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OMNIPOTENTHAVOC&show_icons=true&theme=transparent&hide_border=true&title_color=00ff9c&text_color=ffffff&icon_color=00ff9c&text_bold=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OMNIPOTENTHAVOC&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff" width="48%" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMNIPOTENTHAVOC&theme=transparent&hide_border=true&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="48%" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMNIPOTENTHAVOC&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff9c&text_color=ffffff" width="48%" />
 </p>
-
 ---
 
 ## 📡 **Connect**
