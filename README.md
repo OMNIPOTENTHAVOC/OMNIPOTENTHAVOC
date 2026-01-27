@@ -58,39 +58,62 @@ I focus on **how things break**, because that’s how secure systems are built.
 
 ## 🔥 **Featured Projects**
 
-### 🔐 **[File Encryption & Decryption Tool](https://github.com/OMNIPOTENTHAVOC)**
-
-> *Java · AES · Swing*
-
-A desktop-based encryption system built to understand **how encryption is implemented incorrectly in real software**.
-
-**What it actually does:**
-
-* Encrypts and decrypts files using AES standards.
-* Validates file integrity post-decryption.
-* Provides a GUI for controlled cryptographic operations.
-
-**What I learned:**
-
-* Why hardcoded keys are a critical vulnerability.
-* How improper Initialization Vector (IV) handling breaks AES.
-* **Key Takeaway:** Encryption algorithms are strong; *implementations* are weak.
-
-
-
-### ⚙️ **[STLF — Short-Term Load Forecasting](https://github.com/OMNIPOTENTHAVOC/STLF)**
-
-> *Python · Data Analysis · Grid Systems*
-
-A system-level project focused on **predicting electrical load patterns** for regional grids to prevent outages.
-
-**Engineering Focus:**
-
-* **Reliability:** Modeling system behavior under fluctuating demand stress.
-* **Data Integrity:** Building robust preprocessing pipelines for noisy sensor data.
-* **Impact:** Assisting decision-making for load shedding and grid balancing.
-
-Built to understand **infrastructure reliability**, not just ML buzzwords.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 File Encryption Tool</h3>
+      <p>
+        <em>Java • AES • Swing • Cryptography</em>
+      </p>
+      <p>
+        A desktop-based system built to demonstrate <b>why correct algorithms fail when implemented poorly</b>.
+      </p>
+      <br />
+      <strong>⚡ The Mission (What it does)</strong>
+      <ul>
+        <li>Encrypts/Decrypts files via AES-128.</li>
+        <li>Validates file integrity post-decryption.</li>
+        <li>GUI for controlled cryptographic ops.</li>
+      </ul>
+      <strong>🛡️ Systems Insight (What I learned)</strong>
+      <ul>
+        <li>Why <b>hardcoded keys</b> are a fatal flaw.</li>
+        <li>How <b>IV reuse</b> breaks AES security.</li>
+        <li><i>"Encryption is easy; Key Management is hard."</i></li>
+      </ul>
+      <br />
+      <a href="https://github.com/OMNIPOTENTHAVOC/REPO_NAME_HERE">
+        <img src="https://img.shields.io/badge/View_Source-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ STLF (Grid Reliability)</h3>
+      <p>
+        <em>Python • Data Analysis • Critical Infrastructure</em>
+      </p>
+      <p>
+        A predictive modeling system designed to <b>maintain grid stability</b> by forecasting electrical load surges.
+      </p>
+      <br />
+      <strong>⚡ The Mission (What it does)</strong>
+      <ul>
+        <li>Forecasts short-term power demand.</li>
+        <li>Identifies potential load-shedding risks.</li>
+        <li>Processes noisy sensor data for clarity.</li>
+      </ul>
+      <strong>🛡️ Systems Insight (What I learned)</strong>
+      <ul>
+        <li>Handling <b>data integrity</b> in critical systems.</li>
+        <li>Modeling <b>failure states</b> under high load.</li>
+        <li><i>"Reliability is the ultimate security feature."</i></li>
+      </ul>
+      <br />
+      <a href="https://github.com/OMNIPOTENTHAVOC/STLF">
+        <img src="https://img.shields.io/badge/View_Source-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 ## 📈 SYSTEM METRICS
