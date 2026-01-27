@@ -18,7 +18,7 @@
 ## 🧠 **About Me**
 
 ```bash
-user@kali:~$ whoami
+omni@sidsri:~$ whoami
 # > Systems-focused security engineer specializing in low-level analysis.
 
 ```
