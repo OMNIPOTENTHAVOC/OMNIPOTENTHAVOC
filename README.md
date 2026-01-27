@@ -45,13 +45,21 @@ I focus on **how things break**, because that’s how secure systems are built.
 ## 🛠 **Tech Stack**
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=00ff9c">
-<img src="https://img.shields.io/badge/C%2B%2B-0a0a0a?style=for-the-badge&logo=c%2B%2B&logoColor=00ff9c">
-<img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00ff9c">
-<img src="https://img.shields.io/badge/Bash-0a0a0a?style=for-the-badge&logo=gnu-bash&logoColor=00ff9c">
-<img src="https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=00ff9c">
-<img src="https://img.shields.io/badge/Cryptography-0a0a0a?style=for-the-badge&logo=letsencrypt&logoColor=00ff9c">
-<img src="https://img.shields.io/badge/Networking-0a0a0a?style=for-the-badge&logo=cisco&logoColor=00ff9c">
+  <img src="https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=00ff9c">
+  <img src="https://img.shields.io/badge/C%2B%2B-0a0a0a?style=for-the-badge&logo=c%2B%2B&logoColor=00ff9c">
+  <img src="https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=00ff9c">
+  <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00ff9c">
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=00ff9c">
+  <img src="https://img.shields.io/badge/Bash-0a0a0a?style=for-the-badge&logo=gnu-bash&logoColor=00ff9c">
+  <img src="https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=00ff9c">
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/Cryptography-0a0a0a?style=for-the-badge&logo=letsencrypt&logoColor=00ff9c">
+  <img src="https://img.shields.io/badge/Networking-0a0a0a?style=for-the-badge&logo=cisco&logoColor=00ff9c">
 </p>
 
 ---
