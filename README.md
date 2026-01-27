@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&width=900&lines=Siddhansh+Srivastava;OMNIPOTENTHAVOC;Cybersecurity+%7C+Systems+Engineering;Built+from+the+terminal+up">
 </h1>
@@ -9,7 +8,7 @@
 
 <p align="center">
   <b>⚡ Systems-first security engineering.</b><br>
-  <b>Breaking things to understand how they survive.</b>
+  <b>Understanding software by pushing it to failure.</b>
 </p>
 
 ---
@@ -20,29 +19,27 @@
 user@kali:~$ whoami
 ````
 
-I’m a **systems-oriented cybersecurity engineer in training**, focused on understanding
-how software behaves at its limits — memory, execution flow, privileges, and failure states.
+I’m a **systems-focused cybersecurity engineer in training** with a strong interest in
+how software behaves under real constraints — memory, execution flow, permissions, and misuse.
 
-I work close to the system:
+My work centers around:
 
-* Linux internals & permissions
-* Cryptographic design & implementation
-* Secure file systems & storage models
-* Low-level debugging & failure analysis
+* Linux internals & privilege boundaries
+* Cryptographic implementation (not just theory)
+* Secure file handling & storage systems
+* Failure analysis and defensive design
 
-My mindset is simple:
-
-> Understand execution → identify failure → engineer resilience.
+I focus on **how things break**, because that’s how secure systems are built.
 
 ---
 
 ## 🎯 CURRENT FOCUS
 
-* 🔐 Applied cryptography (AES, key handling, integrity)
+* 🔐 Applied cryptography (AES, hashing, key handling)
 * 🧬 Linux internals & process isolation
-* 🌐 Networking fundamentals & secure communication
+* 🌐 Networking fundamentals
 * 🧠 Threat modeling & attack surfaces
-* 🛠 Building security tools from scratch
+* 🛠 Building security-focused tools
 
 ---
 
@@ -50,6 +47,7 @@ My mindset is simple:
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=00ff9c">
+  <img src="https://img.shields.io/badge/C%2B%2B-0a0a0a?style=for-the-badge&logo=c%2B%2B&logoColor=00ff9c">
   <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00ff9c">
   <img src="https://img.shields.io/badge/Bash-0a0a0a?style=for-the-badge&logo=gnu-bash&logoColor=00ff9c">
   <img src="https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=00ff9c">
@@ -61,28 +59,46 @@ My mindset is simple:
 
 ## 🔥 FEATURED PROJECTS
 
-### 🔐 File Encryption & Decryption Tool (AES)
+### 🔐 File Encryption & Decryption Tool (Java · AES)
 
-**Secure file protection system focused on real-world cryptographic correctness**
+A desktop-based encryption system built to understand **how encryption is implemented incorrectly in real software**.
 
-* Proper key lifecycle handling
-* Encryption / decryption integrity
-* GUI-based secure interaction
-* Designed to avoid common implementation pitfalls
+**What it actually does:**
 
-🔗 [https://github.com/OMNIPOTENTHAVOC](https://github.com/OMNIPOTENTHAVOC)
+* Encrypts and decrypts files using AES
+* Accepts user-provided keys/passwords
+* Validates file integrity after decryption
+* Provides a simple GUI for controlled usage
+
+**What I learned from this project:**
+
+* Why hardcoded keys are dangerous
+* How improper IV handling breaks AES security
+* Why encryption ≠ secure system by default
+
+🔗 **Repo:** [https://github.com/OMNIPOTENTHAVOC](https://github.com/OMNIPOTENTHAVOC)
 
 ---
 
 ### ⚙️ STLF — Short-Term Load Forecasting
 
-Engineering-driven system for:
+A system-level project focused on **predicting electrical load patterns** for regional grids.
 
-* Infrastructure stress modeling
-* Reliability forecasting
-* Decision-support analysis
+**Core purpose:**
 
-Built as a **systems problem**, not ML hype.
+* Forecast short-term power demand
+* Analyze grid stress scenarios
+* Assist decision-making for load balancing
+
+**Engineering focus:**
+
+* Data preprocessing pipelines
+* Reliability analysis
+* System behavior under fluctuating demand
+
+Built to understand **infrastructure reliability**, not ML buzzwords.
+
+🔗 **Repo:** [https://github.com/OMNIPOTENTHAVOC/STLF](https://github.com/OMNIPOTENTHAVOC/STLF)
 
 ---
 
@@ -113,5 +129,6 @@ Built as a **systems problem**, not ML hype.
 </p>
 
 <p align="center">
-  <i>Security is engineered — not installed.</i>
+  <i>Security is not a toolset — it’s a systems mindset.</i>
 </p>
+
