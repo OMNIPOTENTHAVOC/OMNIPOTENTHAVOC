@@ -90,7 +90,7 @@ I focus on **how things break**, because that’s how secure systems are built.
         <li><i>"Encryption is easy; Key Management is hard."</i></li>
       </ul>
       <br />
-      <a href="https://github.com/OMNIPOTENTHAVOC/REPO_NAME_HERE">
+      <a href="https://github.com/OMNIPOTENTHAVOC/enc_tool">
         <img src="https://img.shields.io/badge/View_Source-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c">
       </a>
     </td>
