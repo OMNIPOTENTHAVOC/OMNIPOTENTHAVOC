@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <b>⚡ Systems-first security engineering.</b><br>
+  <b>Systems-first security engineering.</b><br>
   <b>Understanding software by pushing it to failure.</b>
 </p>
 
 <br>
 
-## 🧠 **About Me**
+## **About Me**
 
 ```bash
 omni@sidsri:~$ whoami
@@ -33,12 +33,12 @@ I focus on **how things break**, because that’s how secure systems are built.
 
 ---
 
-## 🎯 **Current Focus**
+## **Current Focus**
 
-* 🔐 **Applied Cryptography** (AES, hashing, key management)
-* 🧬 **Linux Kernel & Internals** (Process isolation, memory safety)
-* 🌐 **Network Protocol Analysis** (Packet inspection, handshake integrity)
-* 🧠 **Threat Modeling** (Reducing attack surfaces in embedded systems)
+* **Applied Cryptography** (AES, hashing, key management)
+* **Linux Kernel & Internals** (Process isolation, memory safety)
+* **Network Protocol Analysis** (Packet inspection, handshake integrity)
+* **Threat Modeling** (Reducing attack surfaces in embedded systems)
 
 ---
 
@@ -64,59 +64,66 @@ I focus on **how things break**, because that’s how secure systems are built.
 
 ---
 
-## 🔥 **Featured Projects**
+## **Featured Projects**
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 File Encryption Tool</h3>
+      <h3>rawsniff (Low-level Network Analysis)</h3>
       <p>
-        <em>Java • AES • Swing • Cryptography</em>
+        <em>C • Raw Sockets • Protocol Parsing • Systems Security</em>
       </p>
       <p>
-        A desktop-based system built to demonstrate <b>why correct algorithms fail when implemented poorly</b>.
+        A raw socket packet sniffer written in C that captures live traffic using AF_PACKET and parses Ethernet → IPv4 → TCP/UDP manually — no libpcap, no abstractions.</b>.
       </p>
       <br />
-      <strong>⚡ The Mission (What it does)</strong>
+      <strong>The Mission (What it does)</strong>
       <ul>
-        <li>Encrypts/Decrypts files via AES-128.</li>
-        <li>Validates file integrity post-decryption.</li>
-        <li>GUI for controlled cryptographic ops.</li>
+        <li>Captures packets directly from the network interface.</li>
+        <li>Parses Ethernet, IPv4 (variable header length), TCP & UDP.</li>
+        <li>Extracts ports, sequence numbers, flags, TTL.</li>
+        <li>Converts multi-byte fields using ntohs() / ntohl().</li>
       </ul>
-      <strong>🛡️ Systems Insight (What I learned)</strong>
+      <strong>Systems Insight (What I learned)</strong>
       <ul>
-        <li>Why <b>hardcoded keys</b> are a fatal flaw.</li>
-        <li>How <b>IV reuse</b> breaks AES security.</li>
-        <li><i>"Encryption is easy; Key Management is hard."</i></li>
+        <li>How the kernel exposes packets via SOCK_RAW.</li>
+        <li>Why endianness matters at the wire level.</li>
+        <li>Why ihl * 4 is required for IPv4 parsing.</li>
+        <li>How tools like Wireshark work.</li>
+        <li>The boundary between kernel networking stack and user-space.</li>
       </ul>
       <br />
-      <a href="https://github.com/OMNIPOTENTHAVOC/enc_java">
+      <a href="https://github.com/OMNIPOTENTHAVOC/pkt_sniff">
         <img src="https://img.shields.io/badge/View_Source-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c">
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ STLF (Grid Reliability)</h3>
+      <h3>Secure Encrypted Chatroom</h3>
       <p>
-        <em>Python • Data Analysis • Critical Infrastructure</em>
+        <em>Python • X25519 • HKDF • AES-256-GCM • TLS 1.3</em>
       </p>
       <p>
-        A predictive modeling system designed to <b>maintain grid stability</b> by forecasting electrical load surges.
+        A standards-based end-to-end encrypted group chat implementing modern cryptographic primitives and replay protection with a zero-knowledge relay server.
       </p>
       <br />
-      <strong>⚡ The Mission (What it does)</strong>
+      <strong>The Mission (What it does)</strong>
       <ul>
-        <li>Forecasts short-term power demand.</li>
-        <li>Identifies potential load-shedding risks.</li>
-        <li>Processes noisy sensor data for clarity.</li>
+        <li>X25519 ECDH key exchange (RFC 7748)</li>
+        <li>HKDF-SHA256 key derivation (RFC 5869)</li>
+        <li>AES-256-GCM authenticated encryption</li>
+        <li>Sequence numbers + sliding window replay defense</li>
+        <li>TLS 1.3 secure transport</li>
       </ul>
-      <strong>🛡️ Systems Insight (What I learned)</strong>
+      <strong>Systems Insight (What I learned)</strong>
       <ul>
-        <li>Handling <b>data integrity</b> in critical systems.</li>
-        <li>Modeling <b>failure states</b> under high load.</li>
-        <li><i>"Reliability is the ultimate security feature."</i></li>
+        <li>Why key agreement ≠ secure messaging.</li>
+        <li>Forward secrecy vs post-compromise security.</li>
+        <li>How replay protection actually works in practice.</li>
+        <li>The complexity of group key establishment.</li>
+        <li>Where protocol design fails without formal modeling.</li>
       </ul>
       <br />
-      <a href="https://github.com/OMNIPOTENTHAVOC/STLF">
+      <a href="https://github.com/OMNIPOTENTHAVOC/sec_chat">
         <img src="https://img.shields.io/badge/View_Source-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c">
       </a>
     </td>
@@ -133,7 +140,7 @@ I focus on **how things break**, because that’s how secure systems are built.
 </p>
 
 ---
-## 📡 **Connect**
+## **Connect**
 
 <p align="center">
 <a href="https://github.com/OMNIPOTENTHAVOC">
