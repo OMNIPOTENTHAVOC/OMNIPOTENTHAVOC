@@ -69,7 +69,7 @@ I focus on **how things break**, because that’s how secure systems are built.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>rawsniff (Low-level Network Analysis)</h3>
+      <h3> > rawsniff (Low-level Network Analysis)</h3>
       <p>
         <em>C • Raw Sockets • Protocol Parsing • Systems Security</em>
       </p>
@@ -98,7 +98,7 @@ I focus on **how things break**, because that’s how secure systems are built.
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>Secure Encrypted Chatroom</h3>
+      <h3> > Secure Encrypted Chatroom</h3>
       <p>
         <em>Python • X25519 • HKDF • AES-256-GCM • TLS 1.3</em>
       </p>
